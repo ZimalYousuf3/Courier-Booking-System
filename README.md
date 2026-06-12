@@ -56,8 +56,25 @@ The system is built on a modular, object-oriented hierarchy:
 
 ---
 
-## 📸 Usage
+## 🚀 Usage
 1. Enter a valid Tracking ID.
 2. Select the target Parcel Type from the dropdown menu (Local, National, International).
 3. Input the parcel's weight in kilograms (integer value).
 4. Click the Calculate button to instantly generate your total shipping cost and booking summary receipt.
+
+---
+
+## 🛠️ Built With
+
+- Java
+- Java Swing (GUI)
+- Eclipse IDE
+
+---
+
+## 👤 Author
+
+**Zimal Yousuf**  
+BSCS Student | C++ Programmer  
+*Passionate about clean code and foundational programming concepts*
+
